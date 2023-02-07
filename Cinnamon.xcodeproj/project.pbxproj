@@ -15,6 +15,7 @@
 		3B757E7629900E17003C9660 /* SnapKit in Frameworks */ = {isa = PBXBuildFile; productRef = 3B757E7529900E17003C9660 /* SnapKit */; };
 		3B757E7D29900FAD003C9660 /* CallView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B757E7C29900FAD003C9660 /* CallView.swift */; };
 		3B757E8029902435003C9660 /* RxSwift in Frameworks */ = {isa = PBXBuildFile; productRef = 3B757E7F29902435003C9660 /* RxSwift */; };
+		3B81B90D2992C1F6006864A6 /* MaxVIew.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B81B90C2992C1F6006864A6 /* MaxVIew.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		3B757E6C29900C1B003C9660 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3B757E6E29900C1B003C9660 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3B757E7C29900FAD003C9660 /* CallView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CallView.swift; sourceTree = "<group>"; };
+		3B81B90C2992C1F6006864A6 /* MaxVIew.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaxVIew.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +87,7 @@
 			children = (
 				3B757E6429900C1A003C9660 /* ViewController.swift */,
 				3B757E7C29900FAD003C9660 /* CallView.swift */,
+				3B81B90C2992C1F6006864A6 /* MaxVIew.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -181,6 +184,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3B81B90D2992C1F6006864A6 /* MaxVIew.swift in Sources */,
 				3B757E7D29900FAD003C9660 /* CallView.swift in Sources */,
 				3B757E6529900C1A003C9660 /* ViewController.swift in Sources */,
 				3B757E6129900C1A003C9660 /* AppDelegate.swift in Sources */,
